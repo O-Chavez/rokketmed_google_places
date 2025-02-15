@@ -6,31 +6,58 @@ import xlsx from 'xlsx';
 import dotenv from 'dotenv';
 import levenshtein from 'fast-levenshtein';
 import cliProgress from 'cli-progress';
+import readline from 'readline';
 
 dotenv.config();
 
-// ------ ADJUST THIS - Sheets 1-3 are the original list of locations broken into 3,000 chunks ------------
-const sheetNumber = 1;
-// ------------------------
+// Create readline interface to ask for user input
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout,
+});
+
+// Ask the user which sheet to process
+function askForSheetNumber() {
+  return new Promise((resolve) => {
+    rl.question(
+      'What sheet number would you like to process (1-3)? ',
+      (answer) => {
+        const sheetNumber = parseInt(answer);
+        if (sheetNumber >= 1 && sheetNumber <= 3) {
+          resolve(sheetNumber);
+        } else {
+          console.log('Invalid input. Please enter a number between 1 and 3.');
+          resolve(askForSheetNumber()); // Ask again if invalid input
+        }
+      }
+    );
+  });
+}
+
+let sheetNumber;
 
 const apiKey = process.env.GOOGLE_PLACES_API_KEY;
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const inputExcelPath = path.join(
-  __dirname,
-  './data/Rokketmed_Location_Data.xlsx'
-);
-const outputJsonPath = path.join(
-  __dirname,
-  `./data/output_sheet${sheetNumber}.json`
-);
-const requestCounterPath = path.join(__dirname, './data/request_counter.json');
-const lastProcessedPath = path.join(
-  __dirname,
-  `./data/last_processed_sheet${sheetNumber}.json`
-);
+let inputExcelPath;
+let outputJsonPath;
+let requestCounterPath;
+let lastProcessedPath;
+// const inputExcelPath = path.join(
+//   __dirname,
+//   './data/Rokketmed_Location_Data.xlsx'
+// );
+// const outputJsonPath = path.join(
+//   __dirname,
+//   `./data/output_sheet${sheetNumber}.json`
+// );
+// const requestCounterPath = path.join(__dirname, './data/request_counter.json');
+// const lastProcessedPath = path.join(
+//   __dirname,
+//   `./data/last_processed_sheet${sheetNumber}.json`
+// );
 
 const bar = new cliProgress.SingleBar({
   format:
@@ -174,7 +201,7 @@ async function fetchGooglePlacesData(businessName, address) {
       return bestMatch;
     } else {
       // Store the location that wasnt found
-      await storeNotFoundLocations({ businessName, address, sheetNumber });
+      await storeNotFoundLocations([{ businessName, address, sheetNumber }]);
     }
 
     return null;
@@ -247,6 +274,20 @@ async function processLocations() {
   bar.stop();
 }
 
-processLocations().catch((error) => {
-  console.error('Error processing locations:', error);
+askForSheetNumber().then((number) => {
+  sheetNumber = number;
+  inputExcelPath = path.join(__dirname, './data/Rokketmed_Location_Data.xlsx');
+  outputJsonPath = path.join(
+    __dirname,
+    `./data/output_sheet${sheetNumber}.json`
+  );
+  requestCounterPath = path.join(__dirname, './data/request_counter.json');
+  lastProcessedPath = path.join(
+    __dirname,
+    `./data/last_processed_sheet${sheetNumber}.json`
+  );
+
+  processLocations().catch((error) => {
+    console.error('Error processing locations:', error);
+  });
 });
