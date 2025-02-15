@@ -1,0 +1,24 @@
+{
+  "name": "rokketmed_google_places",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cli-progress": "^3.12.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "fast-levenshtein": "^3.0.0",
+    "levenshtein-edit-distance": "^3.0.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/cli-progress": "^3.11.6"
+  }
+}

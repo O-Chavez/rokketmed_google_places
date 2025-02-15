@@ -1,0 +1,3198 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "3255 S Rural Rd, Tempe, AZ 85282, United States",
+    "geometry": {
+      "location": {
+        "lat": 33.3939146,
+        "lng": -111.9244907
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.39530752989272,
+          "lng": -111.9234077701073
+        },
+        "southwest": {
+          "lat": 33.39260787010728,
+          "lng": -111.9261074298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104198256800507597910\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbnope_4ujGN1UghS2m4eJl3O-xQy_KJYI1RqXS1QrpKumUEHaq3fvE7BBznigfRkwagN2lZsHSp4k0kvchDkfYrqvB76Zb0fYtNL7JXafz98SWqTbFKdP_O3SJ0AzIQCMA0FHCArobw06MYrDn20lD3jatJFV0zCh510ZKyjqx-UPx5",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJSQzNDpkIK4cRnEHaFGPuueU",
+    "plus_code": {
+      "compound_code": "93VG+H6 Tempe, Arizona",
+      "global_code": "855C93VG+H6"
+    },
+    "rating": 3,
+    "reference": "ChIJSQzNDpkIK4cRnEHaFGPuueU",
+    "types": [
+      "hospital",
+      "pharmacy",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 40
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1575 N Dysart Rd, Avondale, AZ 85392, United States",
+    "geometry": {
+      "location": {
+        "lat": 33.4630153,
+        "lng": -112.3389333
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.46456757989272,
+          "lng": -112.3378106201073
+        },
+        "southwest": {
+          "lat": 33.46186792010727,
+          "lng": -112.3405102798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100633278935457648203\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbl--Ia48SrgHFZeqKFQqfjp5aku5l7a_snlgUc8c6KDbaNPrTsrb1mIWyTGoJ7I4iwkc9futzXvafsRJUNE6Der3oFVU7A64slWWNoDpo0r-4Q6q6Vril0fygm4H9k1zB-SCmWvHa95vKidVoLNgBZxsE3yndCRZcd6R3O9UgbbuiDt",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJZa97SLE4K4cR45oNymSKe7A",
+    "plus_code": {
+      "compound_code": "FM76+6C Avondale, Arizona",
+      "global_code": "8559FM76+6C"
+    },
+    "rating": 3.3,
+    "reference": "ChIJZa97SLE4K4cR45oNymSKe7A",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 35
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1300 S Watson Rd, Buckeye, AZ 85326, United States",
+    "geometry": {
+      "location": {
+        "lat": 33.4341498,
+        "lng": -112.558763
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.43552022989272,
+          "lng": -112.5571220701073
+        },
+        "southwest": {
+          "lat": 33.43282057010728,
+          "lng": -112.5598217298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109106612694870015461\">The Little Clinic - Fry&#39;s</a>"
+        ],
+        "photo_reference": "AVzFdbnvAnCpPaIhVdWBbJCKxhe5dcoOteI3DESD1NOao0Zlt8OFYOs2VF-JIDDpEt7WjSwi-JWX3ItGEr25NmRd1q9-sqx_3qfSHTaaP0XbJ9bSZ3KcQe73H6bbwVBrmzo3zRItScraOaUYUKMw7sGJV7QAu9enW04Yvgzv5EZ78D20d8ti",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJ05JHFok1K4cR-rS-bklEPMw",
+    "plus_code": {
+      "compound_code": "CCMR+MF Buckeye, Arizona",
+      "global_code": "8559CCMR+MF"
+    },
+    "rating": 3,
+    "reference": "ChIJ05JHFok1K4cR-rS-bklEPMw",
+    "types": [
+      "hospital",
+      "pharmacy",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 61
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "2727 W Bell Rd, Phoenix, AZ 85053, United States",
+    "geometry": {
+      "location": {
+        "lat": 33.6385691,
+        "lng": -112.1195694
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.63996597989271,
+          "lng": -112.1182404201073
+        },
+        "southwest": {
+          "lat": 33.63726632010727,
+          "lng": -112.1209400798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110183770917876720663\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbnnsm-GRBKC852SzP2JebOHRag5boI2o3AA8giOJy0v8BV1NpF9s_Qpslp2XmyhK1bpn4zfnezgBXK0Sn060mfvlh97yn4oKZMTe9eNWRPDQjb6r4yb1OKIp0eK2dizB0YVY9pYasbbA3BVv0NmS8F_Oc49PrNh2cMpe3pqrY-hcHBH",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJl7X3heduK4cRjXIlhWV7Es8",
+    "plus_code": {
+      "compound_code": "JVQJ+C5 Phoenix, Arizona",
+      "global_code": "8559JVQJ+C5"
+    },
+    "rating": 3,
+    "reference": "ChIJl7X3heduK4cRjXIlhWV7Es8",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 41
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "6611 W Bell Rd, Glendale, AZ 85308, United States",
+    "geometry": {
+      "location": {
+        "lat": 33.6372458,
+        "lng": -112.2001741
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.63862617989272,
+          "lng": -112.1988462701073
+        },
+        "southwest": {
+          "lat": 33.63592652010728,
+          "lng": -112.2015459298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115586591569546738149\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdblXUFdr0J25U1gf-mZ10nyjkCwlNbqq1uifpKN2O5FmIWhbtCcUBHsnl0NEw7dBTS5bxpFWR9NInhjwrSDzWn6zLSIQxWh7b_6ItTlgPxaDodHqBZTq1dSlA87lDjZPPiKsUiRCncpumiS8DCjMXOvLlWuWekgFNQ1qPNo8Qc1l3JhC",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJnZTb1lNoK4cR0bLkbst3CyA",
+    "plus_code": {
+      "compound_code": "JQPX+VW Glendale, Arizona",
+      "global_code": "8559JQPX+VW"
+    },
+    "rating": 3,
+    "reference": "ChIJnZTb1lNoK4cR0bLkbst3CyA",
+    "types": [
+      "hospital",
+      "pharmacy",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 35
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1935 N Stapley Dr, Mesa, AZ 85203, United States",
+    "geometry": {
+      "location": {
+        "lat": 33.4507656,
+        "lng": -111.8033449
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.45186727989272,
+          "lng": -111.8020656201073
+        },
+        "southwest": {
+          "lat": 33.44916762010727,
+          "lng": -111.8047652798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107314188881493876572\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbnunHcOMqkDzx8xagnZ-q4P5usrnhsgbMMoDFYjPTEWOWdOFASnFA2lUrTTO-cq1XJl9F7Wt3qNczu_jknDqLeQ3jVLylzEUGbiTPLQbXv1s2KuUMORNz6YQwTiRRoFGz4uE1B2nhzKXoWorf5kA-UlOmMxHrbejhyFYHbyG6juS6vz",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJG5mCCVamK4cRGY42nC29I7Y",
+    "plus_code": {
+      "compound_code": "F52W+8M Mesa, Arizona",
+      "global_code": "855CF52W+8M"
+    },
+    "rating": 2.9,
+    "reference": "ChIJG5mCCVamK4cRGY42nC29I7Y",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 48
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "6470 S Higley Rd, Gilbert, AZ 85298, United States",
+    "geometry": {
+      "location": {
+        "lat": 33.2325413,
+        "lng": -111.7232075
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.23389467989273,
+          "lng": -111.7215828701073
+        },
+        "southwest": {
+          "lat": 33.23119502010728,
+          "lng": -111.7242825298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106771368853613295067\">Conrad Morawski</a>"
+        ],
+        "photo_reference": "AVzFdbmwATrBBI4DSYHy66zD0CPD8HockDzq7ZS9cZ3YIkb6u-MTvk4rvcMhPENQr9SifwMqPa_wqZJPuaMzTjiqr-cuYOsbqYCQG617QeW2UzE09umCNymyM-9bRzZyq1WnAQ3_88FOvCQkJm3ee-GZaK3emOr7crLxt3AfBeBeDZ9ELrsFrA6Cx1JC6W_e_lkcEFXNzgFVikeXvX7jP7Y7Jux88p-xBLBeUSoCFNVrjOI9LlmIstwV7Rgy4TItANxBUZaAjhFdEFNUtNf95Wb4r6ggAw70yQdvl-9mraLCkWg8kWE14NVIj8n9cHFS0G22W-OchwBCrC2qbHuBrKxWxdR6VZSn3kXuXR6VkaQq5zkhrgAulAopzjR-nJFHGml8X52lVl_Nj9RYPQ3m27QawKI",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJfaDpZyJTKocR4yin9A5XDBk",
+    "plus_code": {
+      "compound_code": "67MG+2P Gilbert, Arizona",
+      "global_code": "855C67MG+2P"
+    },
+    "rating": 3.4,
+    "reference": "ChIJfaDpZyJTKocR4yin9A5XDBk",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 36
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "155 W Combs Rd, San Tan Valley, AZ 85140, United States",
+    "geometry": {
+      "location": {
+        "lat": 33.2181088,
+        "lng": -111.56569
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.21968897989272,
+          "lng": -111.5643771701073
+        },
+        "southwest": {
+          "lat": 33.21698932010727,
+          "lng": -111.5670768298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117708570254684273279\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbmlnNGjuSqZOQQhKvOq9S9JcP_R8-jZ0aInYaydLT1tDfqME28YIrIMaMCo7VVOY7_6AsS9OkLcEl50Ix2E0O72Karm0d4RNSI-iAVPVU-ValhkGjvFmBiGiKDqH-9MvTkTzxSqCCs2uS1ek-NtGnVZJLRXnIJpFBmnDWKnP3DjYbU",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJm8cgaotLKocRUXYgoyc5_yo",
+    "plus_code": {
+      "compound_code": "6C9M+6P San Tan Valley, Arizona",
+      "global_code": "855C6C9M+6P"
+    },
+    "rating": 3.3,
+    "reference": "ChIJm8cgaotLKocRUXYgoyc5_yo",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 57
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "9900 S Rural Rd, Tempe, AZ 85284, United States",
+    "geometry": {
+      "location": {
+        "lat": 33.321864,
+        "lng": -111.9302881
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.32292057989272,
+          "lng": -111.9288906201073
+        },
+        "southwest": {
+          "lat": 33.32022092010728,
+          "lng": -111.9315902798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108985548087324554559\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbkNfzZzKbkfNOvFNZsqWfOIh260Ns-LyNTlmRVHsFC3qF1jRG11wlVNmJo3uRbtfxUCDpqNw0u5lak8NB4S5sr7aZcOJElVrekOf4RWMCbOFi4nMXJyIySS9khFodsCqZOYdaNQuaLj6TYnBIKFtabeh73qmMEmoFrzTNC-Ah7LWzNN",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJCeGcb5UGK4cR0nxZiVuosQ0",
+    "plus_code": {
+      "compound_code": "83C9+PV Tempe, Arizona",
+      "global_code": "855C83C9+PV"
+    },
+    "rating": 3,
+    "reference": "ChIJCeGcb5UGK4cR0nxZiVuosQ0",
+    "types": [
+      "pharmacy",
+      "doctor",
+      "store",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 44
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "2724 S Signal Butte Rd, Mesa, AZ 85209, United States",
+    "geometry": {
+      "location": {
+        "lat": 33.3657772,
+        "lng": -111.6039704
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.36729317989272,
+          "lng": -111.6023508201073
+        },
+        "southwest": {
+          "lat": 33.36459352010728,
+          "lng": -111.6050504798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115615523794345712285\">Joe Urban</a>"
+        ],
+        "photo_reference": "AVzFdbn9UyJNWA7rnRGrnQ5gU5lNbudWdvVzJhAJ4n5wlr1VMJfOptZRDhLAakrgmedR0TSqRHsXdVnpnVDvTJMLrLWsvCeZYje02ntTJ1YxqA3KOydewEamBDWErCzMRX_g-bGC3mzot-Ios15f8f63paY8L-ckCNGMTpwaZyjyFSBi1pIh",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJwzI9_2OxK4cRQtJVLvMw4eU",
+    "plus_code": {
+      "compound_code": "998W+8C Mesa, Arizona",
+      "global_code": "855C998W+8C"
+    },
+    "rating": 3.3,
+    "reference": "ChIJwzI9_2OxK4cRQtJVLvMw4eU",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 49
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1311 E Bell Rd, Phoenix, AZ 85022, United States",
+    "geometry": {
+      "location": {
+        "lat": 33.6385478,
+        "lng": -112.0536099
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.64011937989272,
+          "lng": -112.0523314701073
+        },
+        "southwest": {
+          "lat": 33.63741972010727,
+          "lng": -112.0550311298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118249518962587237719\">The Little Clinic - Opening Soon!</a>"
+        ],
+        "photo_reference": "AVzFdbknyB3nKzsCZWkpBQ3D6ujf31uZSZsZ5nnwhQRCZJs12NSbrLzP7Agt5Avqhr3PsVsbw9kJYlj5kfBvVaQfAOFw5Zgs9nps6RuMFzxKLwF1Sc4tsNXVcScxXnu3kjulqWe3TvL4IcTBbEyIeC3hcoUmGX3zpA0uZ3ds9z-KnrTPLi1h",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJwwmprBhuK4cRfbrsdI6CmQw",
+    "plus_code": {
+      "compound_code": "JWQW+CH Phoenix, Arizona",
+      "global_code": "8559JWQW+CH"
+    },
+    "rating": 3.1,
+    "reference": "ChIJwwmprBhuK4cRfbrsdI6CmQw",
+    "types": [
+      "hospital",
+      "pharmacy",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 48
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "3100 N Glassford Hill Rd, Prescott Valley, AZ 86314, United States",
+    "geometry": {
+      "location": {
+        "lat": 34.5880154,
+        "lng": -112.342023
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.58949407989272,
+          "lng": -112.3404119701073
+        },
+        "southwest": {
+          "lat": 34.58679442010727,
+          "lng": -112.3431116298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106005684781757258372\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbkqfIVv5_XlU98igSTBN8dP5EvWnaG63VEVBBDBe6Iz79u35kHioZFDOILyv64tuSIE4HtMTwWIVQFvNYT2kT0Es7I3nUp7eXA9LO0tks0coJaY9vFsm7whGh2LNODUTmlGXdtHQaxD6kq-OfkA1fSDUxMf5yNe0MEcFBodqJQ_NG6E",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJU44kvQUkLYcRNShjXPl868o",
+    "plus_code": {
+      "compound_code": "HMQ5+65 Prescott Valley, Arizona",
+      "global_code": "8569HMQ5+65"
+    },
+    "rating": 2.6,
+    "reference": "ChIJU44kvQUkLYcRNShjXPl868o",
+    "types": [
+      "pharmacy",
+      "doctor",
+      "store",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 75
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "13730 W Camelback Rd, Litchfield Park, AZ 85340, United States",
+    "geometry": {
+      "location": {
+        "lat": 33.5100819,
+        "lng": -112.355665
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.51117937989272,
+          "lng": -112.3540402701073
+        },
+        "southwest": {
+          "lat": 33.50847972010727,
+          "lng": -112.3567399298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107937725366200456879\">A Google User</a>"
+        ],
+        "photo_reference": "AVzFdbkBOW76xUfy4FEOJdDgL-C__u0cEJyRuwdt-tNh-xUjlyNgSAYqTd_69RR_s6WJOV7DvBIfqR82FV9ABz6FttIeUMixKB7UM2_rLiu6aFdXV4ij0DAJEkugG_ygvimTRLA6a_hx481euioBsqcTXj0Mnh-WxA7BNMn2QofNGsLDcDol",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJj2Tx4yJHK4cRnUA-wWTwcus",
+    "plus_code": {
+      "compound_code": "GJ6V+2P Litchfield Park, Arizona",
+      "global_code": "8559GJ6V+2P"
+    },
+    "rating": 2.4,
+    "reference": "ChIJj2Tx4yJHK4cRnUA-wWTwcus",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 38
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "9551 S University Blvd, Highlands Ranch, CO 80126, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.5422235,
+        "lng": -104.9442159
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.54361517989273,
+          "lng": -104.9430190701073
+        },
+        "southwest": {
+          "lat": 39.54091552010728,
+          "lng": -104.9457187298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118377489820990671524\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbntWQPpMNOrbstmMXEklfB3xE5h4PdEeraLh-A-6fo0SUUeLvLcauvgoNQD0Sa75LdRsdudtOFA3b0Bh6P9s2boH-aNQRs4fSbZp1GAMrLs0EyhA0v-MWDec8OuHXq0Zw_1c5mzCrr7LhnyAOSXkL6U7TxzL_rAy-MjGTcnxy32tj_U",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJRcjv-4GDbIcRuU6ZYSq-aOI",
+    "plus_code": {
+      "compound_code": "G3R4+V8 Highlands Ranch, Colorado",
+      "global_code": "85FQG3R4+V8"
+    },
+    "rating": 2.6,
+    "reference": "ChIJRcjv-4GDbIcRuU6ZYSq-aOI",
+    "types": [
+      "hospital",
+      "pharmacy",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 39
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "3400 Youngfield St, Wheat Ridge, CO 80033, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.7644174,
+        "lng": -105.1399029
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.76560172989272,
+          "lng": -105.1387838201073
+        },
+        "southwest": {
+          "lat": 39.76290207010727,
+          "lng": -105.1414834798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105009681688876652486\">The Little Clinic - King Soopers</a>"
+        ],
+        "photo_reference": "AVzFdbkJhOI27_3hoRi_m5sH7QtgmgoHfiP68b3QvuY5PUOON_C7KWYKuYNQ97dEjWxxgaJLduxUUrAZkaNarX9EJ0PzNHvmnW-ZSNxxn__C1qNJjW79TTEvXwBm4tYjpmakNRPPFHa01JKLv3A6Zi0JRl9lgut1ajNeFgEX4T_Kamt_uimC",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJ72VzasyFa4cRhzAcB7tzdmI",
+    "plus_code": {
+      "compound_code": "QV76+Q2 Wheat Ridge, Colorado",
+      "global_code": "85FPQV76+Q2"
+    },
+    "rating": 2.6,
+    "reference": "ChIJ72VzasyFa4cRhzAcB7tzdmI",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 82
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "17761 Cottonwood Dr, Parker, CO 80134, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.559901,
+        "lng": -104.7831761
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.56118677989272,
+          "lng": -104.7814039701073
+        },
+        "southwest": {
+          "lat": 39.55848712010728,
+          "lng": -104.7841036298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110559026064062606617\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbkOQDd4UquHaLjN6cP0-QyZ4EsJbiWDcxE3PITdpFutRWncbr1V-FK4VBmHIJY2snDipfXtFrU89WiSeSn7BJLnIpdwQFCJn6JfQ6n3oIy2sh4LfJoCtcxrkYjfc46nX1ITsSwymhWnAnB9Iyg9JZycLbovWHZ1mfmsTfnfSp7JiT4h",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJB5GyI1mObIcRmpIpTSOv5pQ",
+    "plus_code": {
+      "compound_code": "H658+XP Parker, Colorado",
+      "global_code": "85FQH658+XP"
+    },
+    "rating": 3.3,
+    "reference": "ChIJB5GyI1mObIcRmpIpTSOv5pQ",
+    "types": [
+      "pharmacy",
+      "doctor",
+      "store",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 48
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "3100 S Sheridan Blvd, Denver, CO 80227, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.6545672,
+        "lng": -105.0511632
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.65610037989272,
+          "lng": -105.0496986201073
+        },
+        "southwest": {
+          "lat": 39.65340072010728,
+          "lng": -105.0523982798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110769435900108380155\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbnXBcL3FHkphPmmYwdBVfEPFeOxFEdY4TDxFN91Vbv1w3rJlEsRXujrvKBpkXTLHqsoimD9-4AlQS84wO3ykvHbSJih-28QEjGlqBUNUpNLd7aR9rJbNSZYNJoJAb4AjhUCzWrnh50H56u_lqXF8SGr5-Kdm0gOGfzPMaMfiSs9rx8G",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJm4fCvhuAa4cR5VTLo-C80Ww",
+    "plus_code": {
+      "compound_code": "MW3X+RG Denver, Colorado",
+      "global_code": "85FPMW3X+RG"
+    },
+    "rating": 2.5,
+    "reference": "ChIJm4fCvhuAa4cR5VTLo-C80Ww",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 53
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "11747 W Ken Caryl Ave, Littleton, CO 80127, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.5821597,
+        "lng": -105.1308238
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.58348007989272,
+          "lng": -105.1294753201073
+        },
+        "southwest": {
+          "lat": 39.58078042010727,
+          "lng": -105.1321749798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105741214767658738337\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbnekCQU8rXqXiwLo9UonEPUuCM2ma4fq0oeCzMccUOy6NJutlLHB5nptqaDQMWVvO5MpylZoJSh-Pcc6g6nsi9RPAUBBwwptZheN__yz0fX9MF489x8E7iKGzicxi3sJS_VPQSDZQ-E1DygIaEadMxtEIDy-r_LQ-a_lc-rQ6pFGLbO",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJH438EzR5a4cRfOqUPyNlA10",
+    "plus_code": {
+      "compound_code": "HVJ9+VM Littleton, Colorado",
+      "global_code": "85FPHVJ9+VM"
+    },
+    "rating": 3,
+    "reference": "ChIJH438EzR5a4cRfOqUPyNlA10",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 74
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "19711 E Smoky Hill Rd, Centennial, CO 80015, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.6152309,
+        "lng": -104.7584263
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.61641542989272,
+          "lng": -104.7570815201073
+        },
+        "southwest": {
+          "lat": 39.61371577010727,
+          "lng": -104.7597811798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJhapuyFCJbIcRlwLbs4bGSVE",
+    "plus_code": {
+      "compound_code": "J68R+3J Centennial, Colorado",
+      "global_code": "85FQJ68R+3J"
+    },
+    "rating": 2.7,
+    "reference": "ChIJhapuyFCJbIcRlwLbs4bGSVE",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 79
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "7984 W Alameda Ave, Lakewood, CO 80226, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.7094768,
+        "lng": -105.0849429
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.71097507989271,
+          "lng": -105.0839582201073
+        },
+        "southwest": {
+          "lat": 39.70827542010727,
+          "lng": -105.0866578798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109933579041628044768\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbmsYQhzq4LT4SWgQJrN3itJ8ND_YNv5sC5IfG-GTWfFoLjX3mjanIm5D_9zZYI6MPBIEghtkpCfCa1WSbcnc66vQKNfp5SK9M4Feg5iTzicxLbH1ZaJZcWKCKuV5dZykNdZapKOffif6cb3EotAzdcwyNI7iXuCUanV8m_jsiTb8UeG",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJL78X_COBa4cRJWG4DUAfvIY",
+    "plus_code": {
+      "compound_code": "PW58+Q2 Lakewood, Colorado",
+      "global_code": "85FPPW58+Q2"
+    },
+    "rating": 2.6,
+    "reference": "ChIJL78X_COBa4cRJWG4DUAfvIY",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 95
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "12959 S Parker Rd, Parker, CO 80134, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.4796448,
+        "lng": -104.7606254
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.48106632989273,
+          "lng": -104.7590372201073
+        },
+        "southwest": {
+          "lat": 39.47836667010728,
+          "lng": -104.7617368798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118431644615125899921\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbkKfNswSs-EYKpG0xxrx7gxvjqaVqA4XJUUGe5hQvmZHx3DGvFrpGIIr0dtyMq_OxhxZw9Lqc4_Bp5rP2M3hWlTNkVze_a8b1fOBFps6JKymJK-QQ_yEEco6Cphl3n6Y0vrpvi4a0sCvdKwSBJIlE4A8zuXfwjXXC2I8UEAIUCGg58R",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJh4kyfnmRbIcRwibNexCyV-c",
+    "plus_code": {
+      "compound_code": "F6HQ+VP Parker, Colorado",
+      "global_code": "85FQF6HQ+VP"
+    },
+    "rating": 3.1,
+    "reference": "ChIJh4kyfnmRbIcRwibNexCyV-c",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 42
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1750 W Uintah St, Colorado Springs, CO 80904, United States",
+    "geometry": {
+      "location": {
+        "lat": 38.8487623,
+        "lng": -104.8471372
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.85025877989272,
+          "lng": -104.8460083701073
+        },
+        "southwest": {
+          "lat": 38.84755912010727,
+          "lng": -104.8487080298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118334838639707655993\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbmPrbJ5zTkjaEU1pylb6ndXP6BptzGQClzDWw5lGeEX1_rFLCPOBV11uMqETACiSrelZ9iJXL7FsBagfv8STxagP45TRt8x7ZFpBrtaTzg-5A26ZPLOty-L23awwpJzBG-7CZsRniwUgbuIa1C98zXCA8ohiAJ9dplBUPOyj9kUs_sc",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJUZg4FLNaE4cRH2A7yF2tUik",
+    "plus_code": {
+      "compound_code": "R5X3+G4 Colorado Springs, Colorado",
+      "global_code": "85CQR5X3+G4"
+    },
+    "rating": 2.5,
+    "reference": "ChIJUZg4FLNaE4cRH2A7yF2tUik",
+    "types": [
+      "pharmacy",
+      "doctor",
+      "store",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 108
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "12167 Sheridan Boulevard, Broomfield, CO 80020, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.916914,
+        "lng": -105.054826
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.91815602989273,
+          "lng": -105.0535183701073
+        },
+        "southwest": {
+          "lat": 39.91545637010728,
+          "lng": -105.0562180298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110078204013020311711\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbkNGHwjxiaWCq2PM0YLwX9gyZMFcdqr6TLuxESQS8TF7Rf2u_PHHH-1oN0YK5XY_9Q2detHOoFfV5o4wKwtUTPYJN0EcC_wddRvAyQ4WlLXbo36MNg04kZFoMJKRguxLY70JM0fc2thvXIWLAILBwQ8UEYVMb3d8busyeB1__EUzQFE",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJ2WaL6GmKa4cRE4lyUmuTzMM",
+    "plus_code": {
+      "compound_code": "WW8W+Q3 Broomfield, Colorado",
+      "global_code": "85FPWW8W+Q3"
+    },
+    "rating": 2.9,
+    "reference": "ChIJ2WaL6GmKa4cRE4lyUmuTzMM",
+    "types": [
+      "hospital",
+      "pharmacy",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 71
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "5544 Promenade Pkwy, Castle Rock, CO 80108, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.41571769999999,
+        "lng": -104.8802637
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.41692662989271,
+          "lng": -104.8785169701073
+        },
+        "southwest": {
+          "lat": 39.41422697010727,
+          "lng": -104.8812166298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107360259986941919811\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbn2RcOS8HTgZkg0skS0ZGEyCZKmGMdQlVHXwBPi64JzFL8RtRaas_s5ad13a21MLhkWArOvDTameW7rqrEoH3SDUetOvc3CSUvWHa4PEUz8gwmd8k0okGTikwgJsAGCZp3CL0_PNnO4FQLwmDw3T1EOrF6WUNOb6es0xaiYmSHgBdI",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJ663Qg5CZbIcRgR2_1QWAAJw",
+    "plus_code": {
+      "compound_code": "C489+7V Castle Rock, Colorado",
+      "global_code": "85FQC489+7V"
+    },
+    "rating": 2.6,
+    "reference": "ChIJ663Qg5CZbIcRgR2_1QWAAJw",
+    "types": [
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 41
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "2355 W 136th Ave, Broomfield, CO 80023, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.944023,
+        "lng": -105.0130001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.94534777989272,
+          "lng": -105.0117840201073
+        },
+        "southwest": {
+          "lat": 39.94264812010728,
+          "lng": -105.0144836798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103298953675339727703\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbklEyI582nXRi_68-Mw-u1ci3MwI9zjfqiTiitV-3JFRm52SvKuJWUge6hsaLgj_rjp06mqqgZG4ACCxSS3wFK7XK6x24ElKdrIPFblJTH2lyuygWgocXBT7suGo6PW3ep1cgVWm_yDGHMIiJQ_vvG7VGKsY603Mkw7M9zDIyanccM7",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJTdsPJHJ1bIcR9EMB8gow-oU",
+    "plus_code": {
+      "compound_code": "WXVP+JQ Broomfield, Colorado",
+      "global_code": "85FPWXVP+JQ"
+    },
+    "rating": 3,
+    "reference": "ChIJTdsPJHJ1bIcR9EMB8gow-oU",
+    "types": [
+      "pharmacy",
+      "doctor",
+      "store",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 58
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "3620 Austin Bluffs Pkwy, Colorado Springs, CO 80918, United States",
+    "geometry": {
+      "location": {
+        "lat": 38.892171,
+        "lng": -104.7609633
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 38.89359002989273,
+          "lng": -104.7593842201073
+        },
+        "southwest": {
+          "lat": 38.89089037010728,
+          "lng": -104.7620838798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113587876554443683643\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbkxSCtoy3RtV9xc2lSjhYgtVhzNzayEQ8PUurTD8iKW3LYzGiWe_7ZVeprjxHUyyJSbX3CeInCMdC3u2SgGWWvy2APuWxt4KCegG7a87EE9T92L2MXtoD_w8v6n2xBWcltr5j9a2SKd0BrfK6BDnd_DcSBj_uSfMiPxMpkw2ak3u6bv",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJnTX0qUlPE4cRZBtGgdvCoEA",
+    "plus_code": {
+      "compound_code": "V6RQ+VJ Colorado Springs, Colorado",
+      "global_code": "85CQV6RQ+VJ"
+    },
+    "rating": 2.7,
+    "reference": "ChIJnTX0qUlPE4cRZBtGgdvCoEA",
+    "types": [
+      "pharmacy",
+      "doctor",
+      "store",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 110
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "2100 35th Ave, Greeley, CO 80634, United States",
+    "geometry": {
+      "location": {
+        "lat": 40.4051634,
+        "lng": -104.7331461
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.40651277989272,
+          "lng": -104.7319970201073
+        },
+        "southwest": {
+          "lat": 40.40381312010727,
+          "lng": -104.7346966798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116887183625332132265\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbkg4xdlFsw08OsC9eI_KyVi-3puFcVSjXJI3W-DocHRR8QChcE21dm_i5OCAaH1P36pnfvBoLPXLKeDFjrC-1PMHWhquEYvq-mdGqKu5P-MPkZ7eoz6FzzMdBAZq1bE75044JnYvwB3OyJY888RIFj06wOVGFGbKeUsAKuGnjzx6sCc",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJ41Fu61yhbocRlezyOHXEKNI",
+    "plus_code": {
+      "compound_code": "C748+3P Greeley, Colorado",
+      "global_code": "85GQC748+3P"
+    },
+    "rating": 2.5,
+    "reference": "ChIJ41Fu61yhbocRlezyOHXEKNI",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 46
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1842 N College Ave, Fort Collins, CO 80524, United States",
+    "geometry": {
+      "location": {
+        "lat": 40.6122228,
+        "lng": -105.0734289
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.61351052989272,
+          "lng": -105.0723580701073
+        },
+        "southwest": {
+          "lat": 40.61081087010728,
+          "lng": -105.0750577298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1690,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101207888270033243118\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdblptnq8yN1dhl2Sjf79gvYizuz5iQavKPLB4sPRsbFhBJLcNP6t8HF1dkg8BSBJZJxD5lzRDMexsEYjEaCfodQaZn3hm8b5_-_tKKVyP1FALNsW7PDoP4T53y3Dnd6dUo-4A2Oiom5HtjMviA4Pli7VbKCpBUpaO1H82J_cysQDrdW4",
+        "width": 2600
+      }
+    ],
+    "place_id": "ChIJz0zm1Hg1aYcR3Fzu0RBEcHY",
+    "plus_code": {
+      "compound_code": "JW6G+VJ Fort Collins, Colorado",
+      "global_code": "85GPJW6G+VJ"
+    },
+    "rating": 2.4,
+    "reference": "ChIJz0zm1Hg1aYcR3Fzu0RBEcHY",
+    "types": [
+      "hospital",
+      "pharmacy",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 86
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "2810 Quebec St, Denver, CO 80207, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.7564771,
+        "lng": -104.9013546
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.75782082989272,
+          "lng": -104.9002514701073
+        },
+        "southwest": {
+          "lat": 39.75512117010727,
+          "lng": -104.9029511298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106076913929354459120\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbmiCJSDS0MiiaicyNZ6cmN_Hz9_jWNfVET_B-6rMHX8rgckFU1lR-ghDR2HAo7z7zZi8SV2pkJQm5y9vqo-cov7ViIjTdpbGaAMYFn6CWTt7THkOYVzlg8MdQvAWrm4XmgXpb583R1WezoiUhvuFl7M4wH4RtX11AyovG1TPigX41Lp",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJOd1CrZp7bIcRUYE7JBGXJzk",
+    "plus_code": {
+      "compound_code": "Q34X+HF Denver, Colorado",
+      "global_code": "85FQQ34X+HF"
+    },
+    "rating": 2.4,
+    "reference": "ChIJOd1CrZp7bIcRUYE7JBGXJzk",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 84
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1070 W Baptist Rd, Colorado Springs, CO 80921, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.0580342,
+        "lng": -104.8431116
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.05917677989271,
+          "lng": -104.8417759201073
+        },
+        "southwest": {
+          "lat": 39.05647712010727,
+          "lng": -104.8444755798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114492779425288807320\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbkK6YHUUajQ51j6rJjs2vVeNm4tUWJScPowctEk3NL7muzI36L9XPejyO6Q_3--NaN4sM4_szmJwds6CvUtRE7KMf3i_fmPnSNA6xeaSCeo9hUrZlVQMBPJJfXbFY6ip_0tv-qKIk1OHvDuJr2yh_mP8Sx1DP7FhW8BQ2JgSPHirPDM",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJQZ5F0IKybIcRnW3FMzMQnKc",
+    "plus_code": {
+      "compound_code": "3554+6Q Colorado Springs, Colorado",
+      "global_code": "85FQ3554+6Q"
+    },
+    "rating": 3,
+    "reference": "ChIJQZ5F0IKybIcRnW3FMzMQnKc",
+    "types": [
+      "hospital",
+      "pharmacy",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 46
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "6000 S Holly St, Greenwood Village, CO 80111, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.6080917,
+        "lng": -104.9205243
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.60933347989272,
+          "lng": -104.9194416201073
+        },
+        "southwest": {
+          "lat": 39.60663382010728,
+          "lng": -104.9221412798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1690,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104069308296863756218\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdblDlbD7TO9TbVMnbOHAGX-yla8zgUvvaiQekVMSwKDS8NQ2RuVeoKzgnOd5ZI92TtElEFDpP1zeyY0g-j_xWMD7jne7Y7HX-b4UJh4AK5U0tp6BaiMZbMObAAWO1sdnGJO7n6B8Rc7zVPtdMuW5fZ5jehanclJwneuBjgS-03CZNDXZ",
+        "width": 2600
+      }
+    ],
+    "place_id": "ChIJ-V2N0MCGbIcRG516XXS1_mg",
+    "plus_code": {
+      "compound_code": "J35H+6Q Greenwood Village, Colorado",
+      "global_code": "85FQJ35H+6Q"
+    },
+    "rating": 3,
+    "reference": "ChIJ-V2N0MCGbIcRG516XXS1_mg",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 58
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1891 CO-7, Erie, CO 80516, United States",
+    "geometry": {
+      "location": {
+        "lat": 40.0021679,
+        "lng": -105.0099687
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.00335117989273,
+          "lng": -105.0087838701073
+        },
+        "southwest": {
+          "lat": 40.00065152010728,
+          "lng": -105.0114835298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110359284365707798936\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbnrLzCGkWvFpOABrH1IAP_qrOPnFA4FWd88b39aop6DE0nlRw08cVn7_dSUp0HsMp5l4LZyvsOxJi9jm5NP-cUb8nK1MQjF3YX0hpGQgh5AX6Dt1DSszPfcdTD2r4WqB4t5L23uDdwZIOz884-OXQQh12KQEri6DijsbKTPOgQwg6Dt",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJLU85NJcKbIcRuINCcapdboU",
+    "plus_code": {
+      "compound_code": "2X2R+V2 Erie, Colorado",
+      "global_code": "85GP2X2R+V2"
+    },
+    "rating": 2.8,
+    "reference": "ChIJLU85NJcKbIcRuINCcapdboU",
+    "types": [
+      "hospital",
+      "pharmacy",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 47
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "13700 Colorado Blvd, Thornton, CO 80602, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.9445789,
+        "lng": -104.9378009
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.94580362989272,
+          "lng": -104.9366139701073
+        },
+        "southwest": {
+          "lat": 39.94310397010727,
+          "lng": -104.9393136298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113112781513475303298\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbkMc7_LBsN_0UwPmk06qRMn8q87UIsX78_tIAQ8HdMFl7mbIZflo5N5pPKhHYdJsckrrHYH6n3aCLVCDsAVqJDc2NJ4v3AKDLK6qFtjuZh95rO-ruZwlz6fbHeKNKSTm05n1rqQnbQIm54EJnW3HI4pHjc1RwGKx6X_NjGDX0hsIpTA",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJSbZhbYBzbIcRf8rke7_fyWg",
+    "plus_code": {
+      "compound_code": "W3V6+RV Thornton, Colorado",
+      "global_code": "85FQW3V6+RV"
+    },
+    "rating": 3.4,
+    "reference": "ChIJSbZhbYBzbIcRf8rke7_fyWg",
+    "types": [
+      "hospital",
+      "pharmacy",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 59
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "6001 Cumming Hwy NE, Sugar Hill, GA 30518, United States",
+    "geometry": {
+      "location": {
+        "lat": 34.1221803,
+        "lng": -84.0768764
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.12343857989271,
+          "lng": -84.07578222010729
+        },
+        "southwest": {
+          "lat": 34.12073892010727,
+          "lng": -84.07848187989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109394592166092408761\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbl-G5oFYw1FiiVumoa_M1ejA7sd0PzsKVZ4ug4uL_Ua_8KQq15WKIQMYIujIOArgadL7rG-zqs6UU9ztcClpPbvYXEllhekjFvDkCDM0dHzlxoT__bFYCmUFvMpBFRp8RVBpjdIX-dq6hTlLqmwLt_2wN6sW3kirXDj4StIF0hF5b38",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJSSkrxcGQ9YgRyNeCl73g5wI",
+    "plus_code": {
+      "compound_code": "4WCF+V6 Sugar Hill, Georgia",
+      "global_code": "866Q4WCF+V6"
+    },
+    "rating": 3.3,
+    "reference": "ChIJSSkrxcGQ9YgRyNeCl73g5wI",
+    "types": [
+      "hospital",
+      "pharmacy",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 35
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "455 Nathan Dean Blvd, Dallas, GA 30132, United States",
+    "geometry": {
+      "location": {
+        "lat": 33.910852,
+        "lng": -84.8228757
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.91202282989273,
+          "lng": -84.82155102010728
+        },
+        "southwest": {
+          "lat": 33.90932317010729,
+          "lng": -84.82425067989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1690,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109048943940054306246\">Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbmalUZQCtDrTh4zqOPHNVBz_KwkRfhTi1H-12UwFFej7aF13tHmclcjQUVwn5tgTkgtKDfsy7iK53cFItV1cnPgNvLjf6kOJBsFbYZ3GFb7gEbQHOH4VcFq4wAAmqmIGS50466cjABxgy7fLx-KJ_gdTdcZbRyVWZXxVOkM5lYh4ykU",
+        "width": 2600
+      }
+    ],
+    "place_id": "ChIJs2YKLagx9YgR6Y34_LCbjf4",
+    "plus_code": {
+      "compound_code": "W56G+8R Dallas, Georgia",
+      "global_code": "865QW56G+8R"
+    },
+    "rating": 2.4,
+    "reference": "ChIJs2YKLagx9YgR6Y34_LCbjf4",
+    "types": [
+      "pharmacy",
+      "doctor",
+      "store",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 52
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "505 Dacula Rd, Dacula, GA 30019, United States",
+    "geometry": {
+      "location": {
+        "lat": 34.0012694,
+        "lng": -83.9058656
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.00234932989272,
+          "lng": -83.90419787010727
+        },
+        "southwest": {
+          "lat": 33.99964967010727,
+          "lng": -83.90689752989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105535145772331730685\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdblZ4PSVUrH4Ir41SiwNS9DeZ5CaO02HAHc_Sg3DInZ6CZjdRko6KF1hZ-z81cQTGh2U8PjnrL4m-C2jRKZ6sQs6kalBplYLqzzmkLZoTagYCxNXMeAhqeIYlI_UmiA_j4OXWnB1UOIGA7o-q3GWJaUINWKUw0ikNqunNLQiy1s-OFO8",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJFa6RtSDA9YgR-KhqOpDr-24",
+    "plus_code": {
+      "compound_code": "232V+GM Dacula, Georgia",
+      "global_code": "866R232V+GM"
+    },
+    "rating": 2.9,
+    "reference": "ChIJFa6RtSDA9YgR-KhqOpDr-24",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 63
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1685 Old Pendergrass Rd, Jefferson, GA 30549, United States",
+    "geometry": {
+      "location": {
+        "lat": 34.1219393,
+        "lng": -83.60702189999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.12335872989272,
+          "lng": -83.60542627010727
+        },
+        "southwest": {
+          "lat": 34.12065907010728,
+          "lng": -83.60812592989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116148560333725349019\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbnD9iALlLXfK87V3Q5fzV64D19Ev8xqB55ikV0hV68PrINzDRQFaUnOUM4nV16OyN-9cK2vtHwZeA38dxeeUFse8NuJeRBdGkzDtQOyIFhTC3X73uEdZeCAU2EkeeTgMIDPHneBFPCusE2BGjIPv0jodjJerN3cvS8TxQpHA302ogqZ",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJUXN1oYni9YgRNA3D4DbHxlU",
+    "plus_code": {
+      "compound_code": "49CV+Q5 Jefferson, Georgia",
+      "global_code": "866R49CV+Q5"
+    },
+    "rating": 2.1,
+    "reference": "ChIJUXN1oYni9YgRNA3D4DbHxlU",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 39
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "400 Peachtree Industrial Blvd, Suwanee, GA 30024, United States",
+    "geometry": {
+      "location": {
+        "lat": 34.0637171,
+        "lng": -84.07203419999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.06502107989272,
+          "lng": -84.07079097010727
+        },
+        "southwest": {
+          "lat": 34.06232142010728,
+          "lng": -84.07349062989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114414051348998007568\">Hixhen</a>"
+        ],
+        "photo_reference": "AVzFdbkMvFsDcfi7BNSxjCNmx3JWrweA-B2PtLw-edL7uVb5Ww48xg2qFrRpVZ4xaJoB_3pYhH0EnpxtRLlF2AKXnLKvRKWWkSi3OjzJYHgnHQ-C4wHhTfk_z9lRYNrPqoBTbcreA_1KYh3Wh0-WS99nijj3J4YSnN_WZGfTCd0IX0Shpn6j",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJVYAAUw6X9YgRyHua_erE9dA",
+    "plus_code": {
+      "compound_code": "3W7H+F5 Suwanee, Georgia",
+      "global_code": "866Q3W7H+F5"
+    },
+    "rating": 2.6,
+    "reference": "ChIJVYAAUw6X9YgRyHua_erE9dA",
+    "types": [
+      "pharmacy",
+      "doctor",
+      "store",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 40
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "3240 S Cobb Dr SE, Smyrna, GA 30080, United States",
+    "geometry": {
+      "location": {
+        "lat": 33.8751129,
+        "lng": -84.533678
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.87657612989272,
+          "lng": -84.53211007010727
+        },
+        "southwest": {
+          "lat": 33.87387647010727,
+          "lng": -84.53480972989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106334103038244366852\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbljc2NODJW_tZeRVhV8W1EhsWy95maOaqxnPg02D1WOhSluKS9BF18Fa0PMQKSAKuHwM796dlX6NYVZ0ox0OUwRk_WTTRkcclNx67qVfmKNsPRWm0RdNKntc-wnn7JoawFhoGl6n4RszmxUPFryboBkfLtxB_A3etxy_T-SiCd1CUlF",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJRar440cX9YgRiK3RY3jcmB4",
+    "plus_code": {
+      "compound_code": "VFG8+2G Smyrna, Georgia",
+      "global_code": "865QVFG8+2G"
+    },
+    "rating": 2.8,
+    "reference": "ChIJRar440cX9YgRiK3RY3jcmB4",
+    "types": [
+      "pharmacy",
+      "doctor",
+      "store",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 46
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1355 S Park St, Carrollton, GA 30117, United States",
+    "geometry": {
+      "location": {
+        "lat": 33.5530729,
+        "lng": -85.0749359
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.55459992989272,
+          "lng": -85.07397002010728
+        },
+        "southwest": {
+          "lat": 33.55190027010727,
+          "lng": -85.07666967989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106328119200666756264\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbktWUkj-N91VhZ7eSN2pci1OPrXuVWU5JAqUp3Em0A0_8V6GM1OaTBPzuWoy9PAoBiXLOX2gzoPKWwTcwddTK66701tDkTy1hdubGCN-hYZyaS8ldGoONBir9EdUS1rUuNESLIecfg2kwmOjfFzlgkrxyumFN9T-dpb7tT4YnKl5APd",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJcx_VxK8vi4gRiFIQElYs8yM",
+    "plus_code": {
+      "compound_code": "HW3G+62 Carrollton, Georgia",
+      "global_code": "865PHW3G+62"
+    },
+    "rating": 2.8,
+    "reference": "ChIJcx_VxK8vi4gRiFIQElYs8yM",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 32
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1931 Jesse Jewell Pkwy, Gainesville, GA 30501, United States",
+    "geometry": {
+      "location": {
+        "lat": 34.3153164,
+        "lng": -83.7980958
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.31651232989272,
+          "lng": -83.79653012010728
+        },
+        "southwest": {
+          "lat": 34.31381267010728,
+          "lng": -83.79922977989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112476739768667679081\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbmy7GD7a0wV9Hq9tcbwaaW8v47pij2Pzm0KCnVu8KLebVpTuUc1T7B-4YKf-PMheLaOdocc1hMEQYPa8sZav6iL7A0UC4ElT362ulLrttApggU1CPhq7krcvIPesDfh_jUwcCm8Ax0VclVX-Yz9Vtfxta4GIAPSdpJ_p0E-ODcElSXf",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJt6KDjqn39YgRpXdWmIW1TUQ",
+    "plus_code": {
+      "compound_code": "8682+4Q Gainesville, Georgia",
+      "global_code": "866R8682+4Q"
+    },
+    "rating": 2.5,
+    "reference": "ChIJt6KDjqn39YgRpXdWmIW1TUQ",
+    "types": [
+      "hospital",
+      "pharmacy",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 32
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1227 Rockbridge Rd SW, Stone Mountain, GA 30087, United States",
+    "geometry": {
+      "location": {
+        "lat": 33.8402031,
+        "lng": -84.1327512
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.84214742989273,
+          "lng": -84.13133937010728
+        },
+        "southwest": {
+          "lat": 33.83944777010728,
+          "lng": -84.13403902989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116762550465365676417\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbn21ZiQNojG1cPy8vUA-nQQObvKqMqPDNGPu3HK-t9KdbqXjQjdTkq1g-EqV_53DuKKhdi68dD2e9A10JBlp5LlPVZtumRpcq-1zkriLH4EqGhyGqeqj39ihIjaWCE_4_F_z_Mbto3iR01Ec-hKWl4iv5Fgq9N2w-I0FIgr2QRJZzu_",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJkblKVWOl9YgR8OSLkVl7AkE",
+    "plus_code": {
+      "compound_code": "RVR8+3V Stone Mountain, Georgia",
+      "global_code": "865QRVR8+3V"
+    },
+    "rating": 3.3,
+    "reference": "ChIJkblKVWOl9YgR8OSLkVl7AkE",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 48
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "564 Crosstown Drive, Peachtree City, GA 30269, United States",
+    "geometry": {
+      "location": {
+        "lat": 33.3769211,
+        "lng": -84.5645505
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.37830562989271,
+          "lng": -84.56294552010728
+        },
+        "southwest": {
+          "lat": 33.37560597010727,
+          "lng": -84.56564517989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110339797720090901363\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbmFuRBVabwNcf_7_kW7DXqw-k1RwdzrMhVYKMQnLRvKDbfIu0uibG17nrQyQoaCMB265tx4hHtQ6VMR_W1RDI7epDk_eE9VxQLYTcgdWT9lcwqVdqlzVBdQDst_IPekqXbOS8GpJM0t_xUwC-_yb8qqGk61xU1dFLR6z7prDNnwQhLp",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJc4JWSE3q9IgR2UiCgH7VzHI",
+    "plus_code": {
+      "compound_code": "9CGP+Q5 Peachtree City, Georgia",
+      "global_code": "865Q9CGP+Q5"
+    },
+    "rating": 2.6,
+    "reference": "ChIJc4JWSE3q9IgR2UiCgH7VzHI",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 30
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "774 SR 96, Warner Robins, GA 31005, United States",
+    "geometry": {
+      "location": {
+        "lat": 32.5524617,
+        "lng": -83.65945
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.55409527989273,
+          "lng": -83.65823867010727
+        },
+        "southwest": {
+          "lat": 32.55139562010728,
+          "lng": -83.66093832989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110554358564554319106\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbn5RYG75_z396Qk6mS3MoT0VV1soIrQiF67RVTeSe8nq4kF6IFajZw6DBc1l0cvdMZQ0SeRX3wdEzA2Tu2hpLuTEVaBNnhzDZtU_iTctT_RxRtAKqGOzVjWHaLpNiwSYgDh-BV-kAVuCcBw5ChUKDM4MAqnv6iBoXisepYsVlbqR5fF",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJ7USUMxne84gR-vINekxgWR4",
+    "plus_code": {
+      "compound_code": "H82R+X6 Warner Robins, Georgia",
+      "global_code": "864RH82R+X6"
+    },
+    "rating": 3.4,
+    "reference": "ChIJ7USUMxne84gR-vINekxgWR4",
+    "types": [
+      "pharmacy",
+      "doctor",
+      "store",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 50
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1751 Newnan Crossing Blvd, Newnan, GA 30265, United States",
+    "geometry": {
+      "location": {
+        "lat": 33.3770779,
+        "lng": -84.751935
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 33.37852732989272,
+          "lng": -84.75072967010728
+        },
+        "southwest": {
+          "lat": 33.37582767010728,
+          "lng": -84.75342932989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100559520219542107649\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbmwK3ttoHHnPMB5xrPQmILZBD5VhSZTNvUr5BEFoEX0t5S21ytw3Clbx65zCNabLLbu30pCa70Qq-ORV4cwjCVPnAZ3eB0i5Usdg7ywWEB1LIScoPokGfE3yzqJlXZ29U8mR-npx5Ffhkt9Qf3f2aRFTtYw5ERMJvsJiQUNQGrzSoE",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJl5DEEUrG9IgRbiW3jWDmcjI",
+    "plus_code": {
+      "compound_code": "96GX+R6 Newnan, Georgia",
+      "global_code": "865Q96GX+R6"
+    },
+    "rating": 3,
+    "reference": "ChIJl5DEEUrG9IgRbiW3jWDmcjI",
+    "types": [
+      "pharmacy",
+      "doctor",
+      "store",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 36
+  },
+  {
+    "formatted_address": "800 Glenwood Ave, Raleigh, NC 27605, USA",
+    "geometry": {
+      "location": {
+        "lat": 35.7901637,
+        "lng": -78.64674149999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 35.79152507989271,
+          "lng": -78.64551132010727
+        },
+        "southwest": {
+          "lat": 35.78882542010727,
+          "lng": -78.64821097989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "800 Glenwood Ave",
+    "place_id": "ChIJ52MaQ11frIkRyXjNrxaGqB8",
+    "reference": "ChIJ52MaQ11frIkRyXjNrxaGqB8",
+    "types": [
+      "premise"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "4321 Hartley Bridge Rd, Macon, GA 31216, United States",
+    "geometry": {
+      "location": {
+        "lat": 32.7451521,
+        "lng": -83.71456599999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 32.74643182989272,
+          "lng": -83.71313742010727
+        },
+        "southwest": {
+          "lat": 32.74373217010728,
+          "lng": -83.71583707989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109527082861033833014\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbm8Y88Qoyo_RpLOghXWEpM08RnjE2UjOWs9h0h2iI-fUgQSg33mKUBIqcosb_lbNgdLj7U8we6DxV929K1RclIponVYobW3-KR9BqThKmBa0vYo0txs-rD7r0MkqC27jZl431RbbJ5jQqBSwIpydj4Te8-N76I0zZA4CpTWrD9WbrAu",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJb20GhCz784gR1x-0hpgj62g",
+    "plus_code": {
+      "compound_code": "P7WP+35 Macon, Georgia",
+      "global_code": "864RP7WP+35"
+    },
+    "rating": 2.7,
+    "reference": "ChIJb20GhCz784gR1x-0hpgj62g",
+    "types": [
+      "pharmacy",
+      "doctor",
+      "store",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 26
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "125 Main St Mkt Pl SE, Cartersville, GA 30121, United States",
+    "geometry": {
+      "location": {
+        "lat": 34.1719944,
+        "lng": -84.77627869999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.17333452989272,
+          "lng": -84.77535382010727
+        },
+        "southwest": {
+          "lat": 34.17063487010728,
+          "lng": -84.77805347989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112839073250071311633\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdblGRV4yx9-GBXRzumHa7jmpLhlx0AKfJhbNAr-ud_lbldEq1FM3tZLOnZmZGtPKfqqY4goLi-KlROluKJJLLEzB1gkU52WPIuYEERMTHlzUjIWNADox05aERdg__Ggg1_1q80D62otw2AT68j6QQJJ2j7yJU3XwfIrCADOUuwbrxfOg",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJOz91chJP9YgRvfVFJlbEiAM",
+    "plus_code": {
+      "compound_code": "56CF+QF Cartersville, Georgia",
+      "global_code": "866Q56CF+QF"
+    },
+    "rating": 2.6,
+    "reference": "ChIJOz91chJP9YgRvfVFJlbEiAM",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 55
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "5550 Bethelview Rd, Cumming, GA 30040, United States",
+    "geometry": {
+      "location": {
+        "lat": 34.1696067,
+        "lng": -84.1853008
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.17114807989272,
+          "lng": -84.18393647010727
+        },
+        "southwest": {
+          "lat": 34.16844842010727,
+          "lng": -84.18663612989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105539822913966897899\">A Google User</a>"
+        ],
+        "photo_reference": "AVzFdbng9D6sr2ThD73ByDPZYKMO1uAeovjQmYGZSNNY4ZZjGyKbZILs56R7dfkCnVF1LBmhKTL_UjeBWvCIwVBEVMItYzCF1KiC2sIM2PBja3higIupe_RM7xijdoqsRPNJ50X-NIaCOJ6Bmgjy96k1TmAkYiUw8u_pYIAHhj8KzdotJSdt",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJKdUCuemb9YgRUh6Mj4slWR8",
+    "plus_code": {
+      "compound_code": "5R97+RV Cumming, Georgia",
+      "global_code": "866Q5R97+RV"
+    },
+    "rating": 2.3,
+    "reference": "ChIJKdUCuemb9YgRUh6Mj4slWR8",
+    "types": [
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 43
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1930 E Main St, Plainfield, IN 46168, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.7119967,
+        "lng": -86.37549949999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.71319702989273,
+          "lng": -86.37415712010727
+        },
+        "southwest": {
+          "lat": 39.71049737010728,
+          "lng": -86.37685677989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104862884252169714292\">Maggie Eckler</a>"
+        ],
+        "photo_reference": "AVzFdbnalP8D6YN1KCbWnkb6PRa-rhFQPxLrGTgAfXcpbjaXkSeRx7SskK5HFl5UtAVEaYfvS0LPSDjldCVaQLTD5khpe5sjpi6RaTTBP-jWn4p8g7eP7-XV4X7aIR52GYhKm3M1uariI9ZiJVzhM7CynqXNew9BBDIgC0S_fPogCh-gJ8S7",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJIdeD71akbIgRerK6Eext8KQ",
+    "plus_code": {
+      "compound_code": "PJ6F+QR Plainfield, Indiana",
+      "global_code": "86FMPJ6F+QR"
+    },
+    "rating": 2.9,
+    "reference": "ChIJIdeD71akbIgRerK6Eext8KQ",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 33
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1330 W Southport Rd, Indianapolis, IN 46217, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.66505170000001,
+        "lng": -86.1826001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.66620947989271,
+          "lng": -86.18142327010729
+        },
+        "southwest": {
+          "lat": 39.66350982010727,
+          "lng": -86.18412292989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105544854923775930163\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbn4X86z2cGt98gPDi7_G2UZgvfNlcd71izl3P3I2cWUvZlDBJ887qyrtHLstDN6H4MlA4pso1A8kEgX1knAjF3so9z72Nz7jiaYpaM0LSPZo-pluQVkjp1PsnMED4QY558t0FJacvaGToArtNwnZANW-PANHt9HGqqpzs0HxpD8ppjM",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJgw_GWa5ea4gRlcCYcfzRiSE",
+    "plus_code": {
+      "compound_code": "MR88+2X Indianapolis, Indiana",
+      "global_code": "86FMMR88+2X"
+    },
+    "rating": 3.4,
+    "reference": "ChIJgw_GWa5ea4gRlcCYcfzRiSE",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 30
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "5718 Crawfordsville Rd, Indianapolis, IN 46224, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.7995272,
+        "lng": -86.2610596
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.80092797989273,
+          "lng": -86.25999007010728
+        },
+        "southwest": {
+          "lat": 39.79822832010728,
+          "lng": -86.26268972989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110258667467301804016\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbkKihs-s_AgI0pWD1rYBApipWCn0MbJjMksbkrupphd-QjlhivZojN8dQCCaI1bVVz1sslY5e6KPQBlvwO-aRtZ3nHzhFbuVtMAvukMW64aP8gm05mIOpYv3atbMvAr5dIsyM4a3IwvPz8vf67KIMFDzTFGML4xqciS8epxjGPAtOeH",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJK332WdOpbIgRHWEm71S-vAY",
+    "plus_code": {
+      "compound_code": "QPXQ+RH Indianapolis, Indiana",
+      "global_code": "86FMQPXQ+RH"
+    },
+    "rating": 2.1,
+    "reference": "ChIJK332WdOpbIgRHWEm71S-vAY",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 32
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1175 S College Mall Rd, Bloomington, IN 47401, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.1536382,
+        "lng": -86.49527549999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.15488692989273,
+          "lng": -86.49418447010727
+        },
+        "southwest": {
+          "lat": 39.15218727010728,
+          "lng": -86.49688412989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117208158579665967153\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbk_-E4RDcaX91PFFyxg0x9MtG-ky6w3dFqPTjIfOu2UajC1qZsu_F6ZntkvTA7mHVkeYL-wd9SKiF8RZ2yi5pSFLH5UL6yYMTipQjQbgHhHgYucpdEOwPpoG177njkHTpAXwiWC3UJhPcDLnH93yiarHslMlTSRss8tU7mm8dRwHMl2",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJaQ0vHCZkbIgRuO6vnt9Yx6k",
+    "plus_code": {
+      "compound_code": "5G33+FV Bloomington, Indiana",
+      "global_code": "86FM5G33+FV"
+    },
+    "rating": 3.1,
+    "reference": "ChIJaQ0vHCZkbIgRuO6vnt9Yx6k",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 42
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "3060 N National Rd, Columbus, IN 47201, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.2280205,
+        "lng": -85.9020783
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.22958567989271,
+          "lng": -85.90076147010727
+        },
+        "southwest": {
+          "lat": 39.22688602010727,
+          "lng": -85.90346112989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115363835115838247897\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdblwZ39iNYHL3hioBA63S-hHNzjS93AYcQlBPpOwrkjcyC6ByuBG2IXZ8BYpHNHryb8ARed2GWF7ymJxX2xj5pPpaRooCn8tuaNCMaXYd7r9Ug_UU3FeOstXrW7_2iJiRcPd90Yoiyri4i6uY8wTuGQIN9nVDk1vth9IdAcK_wwbnvNz",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJXybRImiga4gRGThG0gr-BhM",
+    "plus_code": {
+      "compound_code": "63HX+65 Columbus, Indiana",
+      "global_code": "86FP63HX+65"
+    },
+    "rating": 3.3,
+    "reference": "ChIJXybRImiga4gRGThG0gr-BhM",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 28
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "5961 N State Rd 135, Greenwood, IN 46143, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.5624175,
+        "lng": -86.15592140000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.56354542989272,
+          "lng": -86.15473187010728
+        },
+        "southwest": {
+          "lat": 39.56084577010728,
+          "lng": -86.15743152989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106930856220724994382\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbl2a5D3m-EO7hpN9szW6hgKcjW_ycnFzlTn4oNKGE1mRfiaKI3DWiso-FQYSNNEMjjmj-eT19ANk3iBOL9sh2MAPlAIZVaE3hKyUmavxhmqIjqZewghxeFjWfRdwHZRBiFSTM3_ru0hGeKtu7W-8pCeRmPk-3YngpMGntUarnC-eoJy",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJHTYhCMZda4gRIi1YRVk8pD4",
+    "plus_code": {
+      "compound_code": "HR6V+XJ Greenwood, Indiana",
+      "global_code": "86FMHR6V+XJ"
+    },
+    "rating": 2.8,
+    "reference": "ChIJHTYhCMZda4gRIi1YRVk8pD4",
+    "types": [
+      "hospital",
+      "pharmacy",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 19
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "8745 S Emerson Ave, Indianapolis, IN 46237, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.6381247,
+        "lng": -86.0842431
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.63950322989272,
+          "lng": -86.08266667010727
+        },
+        "southwest": {
+          "lat": 39.63680357010728,
+          "lng": -86.08536632989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108627033393762093269\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbkef829_DrhurmtHRI5qU36rusogRfBpQaXiGlJ0dqzQePXyX1TQd9XnniiaBWtcEHaCG0OGRyZ3tF0JjidsmpjqqWh-DMTpNfKrB9DkLuHcRjnRPXJSGPPA5uDwAs9_yYt-dD7MnrJ_3ad-o2FQPUjOKfZggTE8coa-Z4JVMI7x6Sk",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJ_RtEYjpDa4gR-zRehuO6R8A",
+    "plus_code": {
+      "compound_code": "JWQ8+68 Indianapolis, Indiana",
+      "global_code": "86FMJWQ8+68"
+    },
+    "rating": 3.2,
+    "reference": "ChIJ_RtEYjpDa4gR-zRehuO6R8A",
+    "types": [
+      "hospital",
+      "pharmacy",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 25
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "5350 E Thompson Rd, Indianapolis, IN 46237, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.6931412,
+        "lng": -86.07732299999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.69450757989272,
+          "lng": -86.07588447010728
+        },
+        "southwest": {
+          "lat": 39.69180792010727,
+          "lng": -86.07858412989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108848967576459889032\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbn7X3xlcZbAFKxzPVTD2-svsrrBFLjK5mfOAmIGG4ziJrNjjwKiwc2d5MlJqilFsFlj303RJhdAC-ST8nsCC-tXRTgHqcP3sBqgzB6qs6adpRwWsV6Kgkc3lijaXJ0rqjbEqO9IsCxzozWrtuUfRTGTugdn7evOSt1HsbrQlZp-4cPW",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJwdRozcNEa4gRjkCs2GyF9ug",
+    "plus_code": {
+      "compound_code": "MWVF+73 Indianapolis, Indiana",
+      "global_code": "86FMMWVF+73"
+    },
+    "rating": 2.6,
+    "reference": "ChIJwdRozcNEa4gRjkCs2GyF9ug",
+    "types": [
+      "pharmacy",
+      "doctor",
+      "store",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 52
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "11700 Olio Rd, Fishers, IN 46037, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.959526,
+        "lng": -85.9223962
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.96106442989272,
+          "lng": -85.92076582010726
+        },
+        "southwest": {
+          "lat": 39.95836477010728,
+          "lng": -85.92346547989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118341823342713855415\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbn6UEXAIPNwhCsNMXw1-2IKei7Na20gs1REjiHLcDlh9_dsOhHakEdAWeFvf1btBJ6r1qm8t7snL0BEWMf1BVWJasY-gl3ANizr8MBx8kKQ9gA95IQ4KUoSnSRIgK3PEZ7m-F4bc5XOHdX_jRBSrlj1BfXwYyd_ttosd6D1ETzWaKaN",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJwb0Qv3rKFIgRxmGUzM2fGRw",
+    "plus_code": {
+      "compound_code": "X35H+R2 Fishers, Indiana",
+      "global_code": "86FPX35H+R2"
+    },
+    "rating": 2.7,
+    "reference": "ChIJwb0Qv3rKFIgRxmGUzM2fGRw",
+    "types": [
+      "pharmacy",
+      "hospital",
+      "doctor",
+      "store",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 31
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "150 W 161st St, Westfield, IN 46074, United States",
+    "geometry": {
+      "location": {
+        "lat": 40.0221818,
+        "lng": -86.1614309
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.02353432989272,
+          "lng": -86.16032517010727
+        },
+        "southwest": {
+          "lat": 40.02083467010728,
+          "lng": -86.16302482989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111743151559416555209\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbmvB-f5tljJVtmxfZ9HHl7zN-G40VMlHylSJaJbkxF_wsAdb-LFCHkjozG-o05dH-wC-W_mDQqYbp2112H1Bq2m4otRp3CjWWAZWDjFsx5-cwB5NfEHfGNJxBefevIJXpKbkXwFJKDvKHlW1YzZnOFAWSNaW639wwFYp5rE7rgwuYD3",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJj-lDFMeuFIgRMkQPi5VqX4M",
+    "plus_code": {
+      "compound_code": "2RCQ+VC Westfield, Indiana",
+      "global_code": "86GM2RCQ+VC"
+    },
+    "rating": 3.3,
+    "reference": "ChIJj-lDFMeuFIgRMkQPi5VqX4M",
+    "types": [
+      "pharmacy",
+      "doctor",
+      "store",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 30
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1217 S Rangeline Rd, Carmel, IN 46032, United States",
+    "geometry": {
+      "location": {
+        "lat": 39.9626161,
+        "lng": -86.1253426
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 39.96407082989273,
+          "lng": -86.12423242010728
+        },
+        "southwest": {
+          "lat": 39.96137117010728,
+          "lng": -86.12693207989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Little Clinic",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 338,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106792074280851672554\">The Little Clinic</a>"
+        ],
+        "photo_reference": "AVzFdbnGjOiuB13Wj1-QrJdc-TDFWgG2zGCQyKGzaPErOLOfdvffjj_pjCJUO9Rn61ZTKnRslhu2WkSVOLgTBKXalQnHmQxeRzZYKlV7DhsgroZhruEwI131mTQxkCFxGqcadLJjPSj1h-rrELgihy7bSx4afeYjs7Q5o97flo9kgeB1KRw9",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJZdE-tKitFIgRionIgj1mPr4",
+    "plus_code": {
+      "compound_code": "XV7F+2V Carmel, Indiana",
+      "global_code": "86FMXV7F+2V"
+    },
+    "rating": 2.6,
+    "reference": "ChIJZdE-tKitFIgRionIgj1mPr4",
+    "types": [
+      "hospital",
+      "pharmacy",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 27
+  }
+]
