@@ -159,7 +159,7 @@ async function fetchGooglePlacesData(businessName, address) {
     if (!data) continue;
 
     if (data.status === 'OVER_QUERY_LIMIT') {
-      console.log('Rate limit exceeded, waiting 5 minutes...');
+      updateStatus('Rate limit exceeded, waiting 5 minutes...');
       await delay(5 * 60 * 1000);
       continue;
     }
