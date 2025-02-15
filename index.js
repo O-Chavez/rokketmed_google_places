@@ -229,9 +229,9 @@ async function processLocations() {
       const placesData = await fetchGooglePlacesData(businessName, address);
       if (placesData) {
         await appendToJsonFile(outputJsonPath, placesData);
-        updateLastProcessedRow(i + 1);
       }
 
+      updateLastProcessedRow(i + 1);
       bar.update(i + 1);
 
       if (i < locations.length - 1) {
@@ -240,9 +240,8 @@ async function processLocations() {
     }
   }
 
-  updateStatus('Processing completed.');
+  updateStatus(`Sheet:${sheetNumber} - Processing completed.`);
   bar.stop();
-  console.log('Processing completed.');
 }
 
 processLocations().catch((error) => {
