@@ -45,19 +45,6 @@ let inputExcelPath;
 let outputJsonPath;
 let requestCounterPath;
 let lastProcessedPath;
-// const inputExcelPath = path.join(
-//   __dirname,
-//   './data/Rokketmed_Location_Data.xlsx'
-// );
-// const outputJsonPath = path.join(
-//   __dirname,
-//   `./data/output_sheet${sheetNumber}.json`
-// );
-// const requestCounterPath = path.join(__dirname, './data/request_counter.json');
-// const lastProcessedPath = path.join(
-//   __dirname,
-//   `./data/last_processed_sheet${sheetNumber}.json`
-// );
 
 const bar = new cliProgress.SingleBar({
   format:
