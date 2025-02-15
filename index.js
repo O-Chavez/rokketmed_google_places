@@ -8,6 +8,11 @@ import levenshtein from 'fast-levenshtein';
 import cliProgress from 'cli-progress';
 
 dotenv.config();
+
+// ------ ADJUST THIS - Sheets 1-3 are the original list of locations broken into 3,000 chunks ------------
+const sheetNumber = 1;
+// ------------------------
+
 const apiKey = process.env.GOOGLE_PLACES_API_KEY;
 
 const __filename = fileURLToPath(import.meta.url);
@@ -17,13 +22,16 @@ const inputExcelPath = path.join(
   __dirname,
   './data/Rokketmed_Location_Data.xlsx'
 );
-const outputJsonPath = path.join(__dirname, './data/output.json');
+const outputJsonPath = path.join(
+  __dirname,
+  `./data/output_sheet${sheetNumber}.json`
+);
 const requestCounterPath = path.join(__dirname, './data/request_counter.json');
 const lastProcessedPath = path.join(__dirname, './data/last_processed.json');
-const noLocationFound = path.join(__dirname, './data/no_location_found.json');
 
 const bar = new cliProgress.SingleBar({
-  format: 'Progress [{bar}] {percentage}% | Status: {status}',
+  format:
+    'Progress [{bar}] {percentage}% | Sheet:{sheetNumber} | Status: {status}',
   barCompleteChar: '#',
   barIncompleteChar: '-',
   hideCursor: true,
@@ -33,21 +41,12 @@ let currentStatus = 'Starting...';
 
 function updateStatus(status) {
   currentStatus = status;
-  bar.update({ status });
+  bar.update({ status, sheetNumber });
 }
 
 function readExcelFile(filePath) {
   const workbook = xlsx.readFile(filePath);
-  /*
-
-  Sheets 1-3 (zero based) are the first sheet (index 0) location's broken into 3000 chunks.
-
-  I've started on sheet 1.
-
-  Adjust the 'workbook.SheetNames' index below to swap to next sheet
-
-*/
-  const sheetName = workbook.SheetNames[1];
+  const sheetName = workbook.SheetNames[sheetNumber];
   const sheet = workbook.Sheets[sheetName];
   return xlsx.utils.sheet_to_json(sheet);
 }
@@ -71,11 +70,16 @@ async function checkAndUpdateRequestCount() {
   }
 
   if (counter.count >= 1000) {
-    updateStatus('Paused - Daily API limit reached');
     const now = new Date();
-    const tomorrow = new Date(now);
-    tomorrow.setHours(0, 0, 0, 0);
-    const waitTime = tomorrow - now;
+    const resumeTime = new Date(now);
+    resumeTime.setHours(now.getHours() + 24); // Set 24 hours from the current time
+
+    updateStatus(
+      `Paused at ${now.toLocaleString()}. Daily API limit reached. Resuming at ${resumeTime.toLocaleString()}.`
+    );
+
+    // Delay the process for 24 hours
+    const waitTime = resumeTime - now;
     await delay(waitTime);
     return 0;
   }
@@ -165,12 +169,10 @@ async function fetchGooglePlacesData(businessName, address) {
       });
 
       return bestMatch;
+    } else {
+      // Store the location that wasnt found
+      await storeNotFoundLocations({ businessName, address, sheetNumber });
     }
-
-    // Handle no results found??
-
-    // console.log(`No results found for ${businessName} at ${address}`);
-    // const noLocationFound = path.join(__dirname, './data/no_location_found.json');
 
     return null;
   }
@@ -186,12 +188,35 @@ async function appendToJsonFile(filePath, data) {
   fs.writeFileSync(filePath, JSON.stringify(existingData, null, 2));
 }
 
+// Function to store locations not found in Google Places API
+async function storeNotFoundLocations(notFoundLocations) {
+  const notFoundJsonPath = path.join(
+    __dirname,
+    './data/not_found_locations.json'
+  );
+  try {
+    // If the file doesn't exist, create a new one. If it does, append data.
+    const existingData = fs.existsSync(notFoundJsonPath)
+      ? JSON.parse(fs.readFileSync(notFoundJsonPath))
+      : [];
+
+    // Append the new not-found locations to the existing data
+    const updatedData = [...existingData, ...notFoundLocations];
+    fs.writeFileSync(notFoundJsonPath, JSON.stringify(updatedData, null, 2));
+  } catch (error) {
+    console.error('Error saving not found locations:', error);
+  }
+}
+
 async function processLocations() {
   const locations = readExcelFile(inputExcelPath);
   let lastProcessedRow = getLastProcessedRow();
 
   // Initialize progress bar
-  bar.start(locations.length, lastProcessedRow, { status: 'Starting...' });
+  bar.start(locations.length, lastProcessedRow, {
+    sheetNumber,
+    status: 'Starting...',
+  });
 
   for (let i = lastProcessedRow; i < locations.length; i++) {
     const { 'Business Name': businessName, 'Street Address': address } =
