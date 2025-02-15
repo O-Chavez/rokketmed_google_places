@@ -27,7 +27,10 @@ const outputJsonPath = path.join(
   `./data/output_sheet${sheetNumber}.json`
 );
 const requestCounterPath = path.join(__dirname, './data/request_counter.json');
-const lastProcessedPath = path.join(__dirname, './data/last_processed.json');
+const lastProcessedPath = path.join(
+  __dirname,
+  `./data/last_processed_sheet${sheetNumber}.json`
+);
 
 const bar = new cliProgress.SingleBar({
   format:
