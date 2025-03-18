@@ -94,7 +94,7 @@ async function checkAndUpdateRequestCount() {
     resumeTime.setHours(now.getHours() + 24); // Set 24 hours from the current time
 
     updateStatus(
-      `Paused at ${now.toLocaleString()}. Daily API limit reached. Resuming at ${resumeTime.toLocaleString()}.`
+      `\nPaused at ${now.toLocaleString()}. \nDaily API limit reached. Resuming at ${resumeTime.toLocaleString()}.`
     );
 
     // Delay the process for 24 hours
@@ -255,7 +255,7 @@ async function processLocations() {
       bar.update(i + 1);
 
       if (i < locations.length - 1) {
-        await delayWithVariance(2500, 1000);
+        await delayWithVariance(10000, 1000);
       }
     }
   }
