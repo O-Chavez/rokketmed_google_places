@@ -17,3 +17,17 @@ yarn-error.log*
 Thumbs.db
 .vscode/
 .idea/
+
+
+# Stored location json files
+/data/output_sheet1.json
+/data/output_sheet2.json
+/data/output_sheet3.json
+
+# Process Tracking
+/data/not_found_locations.json
+/data/last_processed_sheet1.json
+/data/last_processed_sheet2.json
+/data/last_processed_sheet3.json
+/data/request_counter.json
+

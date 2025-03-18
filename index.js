@@ -68,8 +68,10 @@ function readExcelFile(filePath) {
   return xlsx.utils.sheet_to_json(sheet);
 }
 
-function delay(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
+function delayWithVariance(baseDelay, variance) {
+  const randomVariance = Math.random() * variance; // Random value between 0 and variance
+  const totalDelay = baseDelay + randomVariance;
+  return new Promise((resolve) => setTimeout(resolve, totalDelay));
 }
 
 function getRequestCounter() {
@@ -97,7 +99,8 @@ async function checkAndUpdateRequestCount() {
 
     // Delay the process for 24 hours
     const waitTime = resumeTime - now;
-    await delay(waitTime);
+
+    await delayWithVariance(2000, 1000);
     return 0;
   }
 
@@ -141,7 +144,7 @@ async function fetchWithRetry(url, retries = 3) {
       console.warn(
         `API request failed (${i + 1}/${retries}): ${error.message}`
       );
-      await delay(2000 * (i + 1));
+      await delayWithVariance(3000, 1000);
     }
   }
   return null;
@@ -160,7 +163,7 @@ async function fetchGooglePlacesData(businessName, address) {
 
     if (data.status === 'OVER_QUERY_LIMIT') {
       updateStatus('Rate limit exceeded, waiting 5 minutes...');
-      await delay(5 * 60 * 1000);
+      await delayWithVariance(300000, 1000);
       continue;
     }
 
@@ -252,7 +255,7 @@ async function processLocations() {
       bar.update(i + 1);
 
       if (i < locations.length - 1) {
-        await delay(1000);
+        await delayWithVariance(2500, 1000);
       }
     }
   }
